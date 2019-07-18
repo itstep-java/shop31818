@@ -3,3 +3,4 @@ database_port=3306
 database_name=db
 database_username=username
 database_password=password
+server_port=8080
